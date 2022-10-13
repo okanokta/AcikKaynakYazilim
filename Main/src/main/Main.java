@@ -4,10 +4,7 @@
  */
 package main;
 
-/**
- *
- * @author oktao
- */
+
 public class Main {
 
     /**
